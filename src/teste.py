@@ -4,7 +4,6 @@ from importlib.metadata import files
 import numpy as np
 
 directory = '../data/premierleague/'
-filename = '2021.csv'
 extension = '.csv'
 dfGeral = pd.DataFrame()
 
